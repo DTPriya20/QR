@@ -1,0 +1,16 @@
+{
+  "name": "making_qr-npm",
+  "version": "1.0.0",
+  "description": "I am building a qr from the input url given by the user",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dtpriya",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0"
+  }
+}
